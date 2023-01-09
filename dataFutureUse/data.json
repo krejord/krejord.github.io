@@ -1,0 +1,268 @@
+{
+  "research": [
+    {
+      "title": "Genome-wide map of nucleosomes and sub-nucleosomes in human cells with a novel nuclease-based chromatin fragmentation strategy",
+      "content": "In each cell, 2 meters of DNA is wrapped into about a 10 μM diameter space called the nucleus. DNA is coiled around histone octamers, collectively called a nucleosome. The position of nucleosomes determines what genes are accessible to nuclear proteins. We have devised a novel method in which a nuclease chews accessible DNA around these structures to determine their location in higher-resolution and to greater completion than previously published. A map of nucleosomes and sub-nucleosome particles genome-wide will provide a chromatin landscape for then surveying the location of transcription factors and otherchromatin complexes via nuclease-ChIP-exo (below)."
+    },
+    {
+      "title": "A streamlined ChIP-exo 6.1 assay measures same-molecule positional relationship between transcription factors and  nucleosomes in vivo",
+      "content": "Transcription factors (ssTFs) bind specific DNA sequences in promoter and enhancer regions in the context of an organized nucleosome architecture. There they recruit cofactors that regulate chromatin accessibility and transcription complex assembly. ChIP-exo is a high-resolution genome-wide assay that measures protein-DNA interactions with single-bp precision. Here we couple the precision of ChIP-exo with a nuclease chromatin fragmentation strategy that cleaves and marks rotationally-exposed DNA on nucleosomal surfaces. This maps the positional orientation of TFs with an adjacent nucleosome surface on the same DNA molecule in human cells. Additional modifications to the ChIP-exo assay present here (version 6.1) greatly simplify library construction over prior versions and provides a facile, high-precision means to map genomic TF binding sites."
+    },
+    {
+      "title": "Application of nuclease-ChIP-exo to mammalian tissues",
+      "content": "Applying nuclease-ChIP-exo (6.1) to any clinical samples depends upon the ability to (1) grind different sized tissues, (2) remove embedding media if present, and (3) isolate nuclei. A method to grind <200 mg tissues while frozen was devised to minimize sample loss utilizing items available at any home improvement store. Removal of pathology-applied media is being studied as well as how to isolate nuclei from various organs. Quantifiable, purified nuclei will be an appropriate input for ChIP-exo to provide epigenomic data for clinical samples."
+    }
+  ],
+  "peer review publications": [
+    {
+      "author": "Khattabi LE, Zhao H, Kalchschmidt J, Young N, Jung S, Blerkom PV, Kieffer-Kwon P, Kieffer-Kwon K, Park S, Wang X, Krebs J, Tripathi S, Sakabe N, Sobreira DR, Haung S, Rao SSP, Pruett N, Chauss D, Sadler E, Lopez A, Nobrega MA, Aiden EL, Asturias FJ, Casellas R.",
+      "title": "A Pliable Mediator Acts as a Functional Rather than an Architectural Bridge between Promoters and Enhancers.",
+      "italic": "Cell.",
+      "number": " 178(5):1145-1158."
+    },
+
+    {
+      "author": "Juan AH, Wang S., Ko KD, Zare H, Tsai PF, Feng X, Vivanco KO, Ascoli AM, Gutierrez-Cruz G, Krebs J, Sidoli S, Knight AL, Pederson RA, Garcia BA, Casellas R, Zou J, Sartorelli V.",
+      "title": "Roles of H3K27me2 and H3K27me3 Examined during Fate Specification of Embryonic Stem Cells. ",
+      "italic": "Cell Rep.",
+      "number": " 17(5): 1369-1382."
+    },
+    {
+      "author": "Krebs JE*, Vaishampayan P*, Probst A*, Tom L, Marteinsson VT, Andersen GL, Venkateswaran K (2014).",
+      "title": "Microbial Community Structures of novel Icelandic Hot Spring Systems Revealed by PhyloChip G3 Analysis.",
+      "italic": "Astrobiology",
+      "number": "14(3): 229-240."
+    },
+
+    {
+      "author": "Kirk KE, Hoffman JA, Smith KA, Strahan BL, Failor KC, Krebs JE, Gale AN, Do TD, Sontag TC, Batties AM, Mistiszyn K, Newman JD (2013). ",
+      "title": " Chryseobacterium angstadti sp. nov., isolated from a newt tank. Submitted to Int. J. Syst. Evol ",
+      "italic": "Microbiol",
+      "number": "63(12): 4777-4738."
+    },
+
+    {
+      "author": "McDonald CE, Ramsey JR, Sampsell DG, Anderson LA, Krebs JE, Smith SN (2013). ",
+      "title": " Dipyrrolidinomethylamino phosphoric triamide (DPMPA) as an Activator for samarium diioide-mediated reduction of alkyl and aryl halides.",
+      "italic": "Tetrahedron",
+      "number": "69: 2947-2953."
+    }
+  ],
+
+  "non-peer review publications": [
+    {
+      "year": "2014",
+      "author": "Krebs, J (2014). http://dx.doi.org/10.6084/m9.figshare.1117899.",
+      "title": "CRISPR Design Tool and Protocol. figshare. "
+    },
+    {
+      "year": "2013",
+      "author": "Krebs JE (2013).",
+      "title": " “The Roller Coaster of Undergraduate Research”. CUR Quarterly. Council on Undergraduate Research. 33(3): 12"
+    }
+  ],
+
+  "Conferences": [
+    {
+      "year": "2019",
+      "title": [
+        "Chromatin and Epigenetic Regulation of Transcription, 38th Summer Symposium in Molecular Biology. PSU. July 30-Aug. 2, 2019",
+        "Mech. of Eukaryotic Transcription. Cold Spring Harbor Labs. Aug. 27-31, 2019."
+      ]
+    },
+    {
+      "year": "2011",
+      "title": "Amgen Scholars U.S. Symposium, University of California. Los Angeles, CA."
+    },
+    {
+      "year": "2010",
+      "title": "Moravian College Undergraduate Math Student Conference Moravian College, Bethlehem, PA."
+    }
+  ],
+
+  "Poster Presentations": [
+    {
+      "year": "2019",
+      "title": "Optimizing chromatin fragmentation for mammalian ChIP-exo",
+      "author": "Krebs, J, Lai, WKM, Pugh F.",
+      "location": "2019 PSU MCIBS and Pathobiology retreat. Boalsburg, PA. Aug. 20, 2019. 2019 CEGR retreat. Boalsburg, PA. Oct. 12, 2019."
+    },
+
+    {
+      "year": "2018",
+      "title": "“Application of ChIP-exo in human health”",
+      "author": " Krebs, J, Lai, WKM, Pugh F.",
+      "location": "2018 CEGR retreat. Boalsburg, PA. Oct. 20, 2018."
+    },
+    {
+      "year": "2016",
+      "title": "“The Systematic Knock-Out of Mediator Complex Subunits”.",
+      "author": "Krebs J, Kieffer-Kwon P, Tripathi S, Jung S, Kieffer-kwon KR, Khattabi L, Casellas R.",
+      "location": " 2016 NIAMS Poster Day. Bethesda, MD. April 29, 2016; 2016 Post-bac Poster Day. Bethesda, MD. April 20, 2016."
+    },
+
+    {
+      "year": "2015",
+      "title": "“The Systematic Knock-Out of Mediator Complex Subunits”.",
+      "author": "Krebs, J, Kieffer-Kwon P, Casellas R.",
+      "location": " 2015 Post-bac Poster Day. Bethesda, MD. April 30, 2015."
+    },
+    {
+      "year": "2014",
+      "title": "“High-throughput production of custom designed nucleases”.",
+      "author": "Krebs J, Kieffer-Kwon P, Nelson S, Casellas R.",
+      "location": "2014 NIH Post-bac Poster Day. Bethesda, MD. May 1, 2014."
+    },
+    {
+      "year": "2013",
+      "publicaiton": [
+        {
+          "title": "“Average-Nucleotide Identity Bi-Directional Best Hit (ANIBBH): Novel Genomic-Based Method to Differentiate Bacterial Species”.",
+          "author": "Krebs J, Gale A*, Sontag T, Keyser V, Newman J. ",
+          "location": "2013 ASM General Meeting. Denver, CO. May 18-21, 2013."
+        },
+        {
+          "title": "“Purification of Flexirubin Pigments from Chryseobacterium”.",
+          "author": "Krebs J, Gale A, Newman J.",
+          "location": "2013 ASM General Meeting. Denver, CO. May 18-21, 2013."
+        },
+        {
+          "title": "“Purification of Flexirubin Pigments from Chryseobacterium”",
+          "author": "Krebs J, Gale A, Newman J.",
+          "location": "16th Annual Environmental Chemistry and Microbiology Student Symposium. Penn State University, State College, PA. March 15-16, 2013."
+        },
+        {
+          "title": "“Average-Nucleotide Identity Bi-Directional Best Hit (ANIBBH): Novel Genomic-Based Method to Differentiate Bacterial Species”.",
+          "author": "Krebs J, Gale A*, Sontag T, Keyser V, Newman J.",
+          "location": "Poster presented at 16th Annual Environmental Chemistry and Microbiology Student Symposium. Penn State University, State College, PA. March 15-16, 2013."
+        },
+        {
+          "title": " “Average-Nucleotide Identity Bi-Directional Best Hit (ANIBBH): Novel Genomic-Based Method to Differentiate Bacterial Species”.",
+          "author": "Krebs J, Gale A*, Sontag T, Keyser V, Newman J. ",
+          "location": "2013 PAS Annual Meeting. University of Pittsburgh-Bradford, Bradford, PA. April 5-7, 2013."
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "publicaiton": [
+        {
+          "title": "“Purification and Molecular Structure Determination of Flexirubins from Chryseobacteria”",
+          "author": "  Krebs J, Sampsell D, McDonald C, Newman J. ",
+          "location": "2012 Undergraduate Research Symposium in the Chemical and Biological Sciences, UMBC. University of Maryland Baltimore County, Baltimore, MD. Oct. 22, 2012."
+        },
+
+        {
+          "title": " “Genome Editing via TALEN zinc finger nucleases”.",
+          "author": "Krebs JE, Qian J, Kieffer-Kwon K, Casellas R.",
+          "location": "2012 Summer Research Program Poster Day, NIH. Bethesda, MD. Aug. 8, 2012."
+        },
+
+        {
+          "title": "“Astrobiological Significance of Exosporium-forming spores for UV resistance”.",
+          "author": "Krebs JE, Schrader M, Vaishampayan P, Rabbow E, Rettberg P, Venkateswaran K.",
+          "location": " 2012 Astrobiology Science Conference (ABSCISON). Georgia Institute of Technology, Atlanta, GA. April 15-20, 2012."
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "publicaiton": [
+        {
+          "title": "“Role of Extraneous layer of Bacillus horneckiae spores in Enhanced UV Resistance”. ",
+          "author": "Krebs JE, Vaishampayan P, Venkateswaran K. ",
+          "location": "2011 Undergraduate Research Symposium in the Chemical and Biological Sciences, UMBC. University of Maryland, Baltimore County, Baltimore, MD. Oct. 22, 2011."
+        },
+        {
+          "title": "“Characterization of Novel Bacterial Species Identified by Undergraduate Students in a General Microbiology Course”. ",
+          "author": "Collins K, Krebs J, Kirk K, Smith K, Duncan T, Failor KC, Newman J.",
+          "location": "2011 ASM Annual Meeting. New Orleans Convention Center, New Orleans, LA. May 21-24, 2011."
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "title": "“Molecular and Phenotypic Characteristics of a Novel Species and Related Type Strains Suggest a Reorganization within the Genus Chryseobacterium”. ",
+      "author": "Krebs JE, Failor KC, Marcinko TM, and Newman JD.",
+      "location": "2010 ABASM Meeting. Lock Haven University, Clearfield Campus, Clearfield, PA. Nov. 5-6, 2010"
+    }
+  ],
+
+  "Talks": [
+    {
+      "year": "2021",
+      "author": "Krebs, J.",
+      "title": " “High-resolution mapping of transcription factor binding sites in human tissue”.",
+      "location": "CEGR Mega meeting. Virtual. March 3, 2021."
+    },
+    {
+      "year": "2020",
+      "author": "Krebs, E.",
+      "title": "“Nuclease-ChIP-exo”.",
+      "location": " CEGR Mega meeting. Feb. 4, 2020."
+    },
+    {
+      "year": "2019",
+      "author": "Krebs, J.",
+      "title": "“Prepping chromatin from solid organs and blood”.",
+      "location": " CEGR Mega meeting. April 16, 2019."
+    },
+    {
+      "year": "2014-2019",
+      "presentation": [
+        {
+          "author": "Krebs J, Casellas R.",
+          "title": "“Genome Editing via CRISPR: background and hands on 2016 exercise”. ",
+          "location": "“Engineering with CRISPR, TALENs, and ZFNs” FAES Class at NIH. Bethesda, MD. Feb. 6, 2015, Nov. 6,2015, Feb. 5, 2016, June 24, 2016."
+        },
+        {
+          "author": "Krebs J, Casellas R.",
+          "title": " “A Bioinformatics Tool to Design Efficient sgRNAs”.",
+          "location": " “Engineering with CRISPR, TALENs, and ZFNs” FAES Class at NIH. Bethesda, MD. July 25, 2014, Feb. 3, 2015, Nov. 3 2015, Feb. 2, 2016, & June 21, 2016"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "presentation": [
+        {
+          "author": "Krebs J, Newman J.",
+          "title": "“Perspectives on the use of GENIII Plates in Undergraduate Research”.",
+          "location": "Biolog Inc. Speaker; 2013 American Society for Microbiology (ASM) General Meeting. Denver Convention Center, Denver, CO. May 18-21, 2013."
+        },
+        {
+          "author": "Krebs J, Newman J.",
+          "title": "“Purification of Flexirubin Pigments from Chryseobacterium”.",
+          "location": "Honor’s thesis presented to Honor’s Committee in partial completion of Biology Departmental Honors. April 23, 2013."
+        },
+        {
+          "author": "Krebs J, Gale A, Newman J.",
+          "title": "“Purification of Flexirubin Pigments from Chryseobacterium”.",
+          "location": "2013 Pennsylvania Academy of Sciences (PAS) Annual Meeting. University of Pittsburgh-Bradford, Bradford, PA. April 5-7, 2013."
+        }
+      ]
+    },
+
+    {
+      "year": "2012",
+      "presentation": [
+        {
+          "author": "Krebs J, Newman J.",
+          "title": "“Purification and Molecular Structure Determination of Flexirubin Pigments of Chryseobacterium”. ",
+          "location": "2012 Allegheny Branch American Society of Microbiology (ABASM) Meeting. Penn State University, State College, PA. Nov. 9-10, 2012."
+        },
+        {
+          "author": "Krebs J, Sontag T, Newman J.",
+          "title": " “Genome Sequencing of Lycomia zaccaria gen. nov. sp. nov., Chryseobacterium haifense, and Kaistella koreensis and Comparison to Two Closely Related Genomes”. ",
+          "location": "2012 PAS Annual Meeting. Cedar Crest College, Allentown, PA. March 30-April 1, 2012."
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "author": "Krebs J, Newman J.",
+      "title": " “Characterization Of a Novel Genus Within the Family Flavobacteriaceae”.",
+      "location": "2011 ABASM Meeting. Mount Aloysius College, Cresson, PA. Nov. 45, 2011."
+    }
+  ]
+}
